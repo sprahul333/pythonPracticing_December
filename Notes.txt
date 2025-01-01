@@ -1,0 +1,27 @@
+Python:
+
+1. High Level Programming Language known for simplicity and readability, multi purpose language
+2. Used for :
+    Software Development
+    Automation
+    DS, AI, ML
+
+3. Jython **** (Java Integrated Python)
+   Cython ****
+
+Why Python:
+
+4. Works on Different Platforms and syntax similar to english language
+
+5. Can be used in Procedural way, or OOPS Way or a Functional Way.
+
+Data Types:
+
+1. String Type: str
+2. Numeric Types: int, float
+3. Sequence Types: list, tuple
+4. Mapping Type: Dict
+5. Set Types: Set
+6. Boolean Type: bool
+7. NoneType: None
+Binary Types: bytes, byteArray, memoryView

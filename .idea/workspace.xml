@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21681c80-967d-4faf-bf43-1d1a96b5ab2f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonRevisionConcepts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10_fileHandling/Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10_fileHandling/FileHandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10_fileHandling/InterviewQuestion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10_fileHandling/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10_fileHandling/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_LamdaAndFilters/FilterConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_LamdaAndFilters/LamdasConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_LamdaAndFilters/ListComprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_LamdaAndFilters/MapConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_LamdaAndFilters/ReduceConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_LamdaAndFilters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_dataTypes/ConditonalStatements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_dataTypes/InputFromUser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_dataTypes/Sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_dataTypes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_StringConcepts/AdvancedConditionalConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_StringConcepts/LoopingConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_StringConcepts/NestedForLoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_StringConcepts/StringConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_StringConcepts/StringFormatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_StringConcepts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_Loops/ForLoopConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_Loops/ListConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_Loops/ReplaceVowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_Loops/WhileLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_Loops/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_ListAndTuples/Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_ListAndTuples/ListConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_ListAndTuples/ListQuestions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_ListAndTuples/Tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_ListAndTuples/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_dictionary/Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_dictionary/Count_Duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_dictionary/DictionaryConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_dictionary/SetConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_dictionary/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_Functions/Assignment_One.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_Functions/Assignment_Three.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_Functions/Assignment_Two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_Functions/FunctionDeclarations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_Functions/MathFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_Functions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7_ClassesAndObjects/Assignment_One.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7_ClassesAndObjects/Assignment_Two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7_ClassesAndObjects/ClassAndObjects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7_ClassesAndObjects/Constructors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7_ClassesAndObjects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7_ClassesAndObjects/oopsDemo/Ecommerce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7_ClassesAndObjects/oopsDemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_Inheritance/EmployeeDetails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_Inheritance/InheritanceConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_Inheritance/MultiLevelInheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_Inheritance/SampleExamples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_Inheritance/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_Abstraction/CustomExceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_Abstraction/ExceptionHandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_Abstraction/SampleAbstractions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_Abstraction/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec10th_PyTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec10th_PyTest/test_markersconcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec10th_PyTest/test_parameterized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec10th_PyTest/test_sampleCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec10th_PyTest/test_secondFiles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/AdvancedActionsChains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/AdvancedActionsChains_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/draganddrop_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/helpers/BrowserFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/helpers/RegistrationForm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/helpers/SeleniumHelper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/helpers/SeleniumUtility.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/helpers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/pytestdemo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/test_fixtureConcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/test_fixtures_seleniumconcepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/test_fixturesandparameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec3rd_FramesAndTimeOuts/TimeOuts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec3rd_FramesAndTimeOuts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov18th_seleniumBasics/AssignmentOne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov18th_seleniumBasics/AssignmentTwo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov18th_seleniumBasics/Assignmentthree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov18th_seleniumBasics/FirstSession.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov18th_seleniumBasics/Locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov18th_seleniumBasics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov20th_seleniumLocators/PrintAllLinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov20th_seleniumLocators/RegistrationForms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov20th_seleniumLocators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov28th_SeleniumActions/AlertsAndFramesAssignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov28th_SeleniumActions/GIT-Workflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov28th_SeleniumActions/SeleniumActions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov28th_SeleniumActions/SeleniumBreakoutSession.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov28th_SeleniumActions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2nfOREIEu0TQvHUHJvTCX7wqYrx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for fixtureConcepts.test_fixtureConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_fixturesandparameters.test_createuser.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_parameterized.test_parmeterizing_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in pytestdemo3.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AdvancedActionsChains.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AdvancedActionsChains_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AdvancedConditionalConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AlertsAndFramesAssignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AssignmentOne.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AssignmentTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assignment_One.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assignment_Three.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assignment_Two.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClassAndObjects.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConditonalStatements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Constructors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_Duplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DictionaryConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ecommerce.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EmployeeDetails.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExceptionHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FilterConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FirstSession.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ForLoopConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FunctionDeclarations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InheritanceConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InputFromUser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InterviewQuestion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LamdasConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListComprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListConcepts (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListQuestions (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListQuestions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Locators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LoopingConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MapConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MathFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MultiLevelInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NestedForLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrintAllLinks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PythonAssignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReduceConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegistrationForm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegistrationForms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReplaceVowels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SampleAbstractions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SampleExamples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SeleniumActions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SeleniumBreakoutSession (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.SetConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringFormatting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TimeOuts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TupleConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draganddrop_demo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Trainings_Classes\Python_Learnings\PythonRevisionConcepts\dec12th_fixtures" />
+      <recent name="D:\Trainings_Classes\Python_Learnings\PythonRevisionConcepts\nov28th_SeleniumActions" />
+      <recent name="D:\Trainings_Classes\Python_Learnings\PythonRevisionConcepts\day10_fileHandling" />
+      <recent name="D:\Trainings_Classes\Python_Learnings\PythonRevisionConcepts\day3_Loops" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in pytestdemo3.py">
+    <configuration name="AdvancedActionsChains" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonRevisionConcepts" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dec12th_fixtures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dec12th_fixtures/AdvancedActionsChains.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AdvancedActionsChains_Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonRevisionConcepts" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dec12th_fixtures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dec12th_fixtures/AdvancedActionsChains_Class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RegistrationForm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonRevisionConcepts" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dec12th_fixtures/helpers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dec12th_fixtures/helpers/RegistrationForm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="draganddrop_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonRevisionConcepts" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dec12th_fixtures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dec12th_fixtures/draganddrop_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in pytestdemo3.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonRevisionConcepts" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dec12th_fixtures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/dec12th_fixtures/pytestdemo3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in pytestdemo3.py" />
+        <item itemvalue="Python.RegistrationForm" />
+        <item itemvalue="Python.draganddrop_demo" />
+        <item itemvalue="Python.AdvancedActionsChains_Class" />
+        <item itemvalue="Python.AdvancedActionsChains" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21681c80-967d-4faf-bf43-1d1a96b5ab2f" name="Changes" comment="" />
+      <created>1729360653381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729360653381</updated>
+      <workItem from="1729360654771" duration="3173000" />
+      <workItem from="1729619428375" duration="130000" />
+      <workItem from="1729619576804" duration="3770000" />
+      <workItem from="1729659939540" duration="3575000" />
+      <workItem from="1730353322356" duration="218000" />
+      <workItem from="1730353555652" duration="23408000" />
+      <workItem from="1730471833816" duration="62000" />
+      <workItem from="1730472061637" duration="5089000" />
+      <workItem from="1730556112043" duration="176000" />
+      <workItem from="1730597313163" duration="353000" />
+      <workItem from="1730597697091" duration="53000" />
+      <workItem from="1731345593884" duration="2065000" />
+      <workItem from="1732078010053" duration="142000" />
+      <workItem from="1732078187855" duration="1879000" />
+      <workItem from="1732080099128" duration="2184000" />
+      <workItem from="1732179166160" duration="133000" />
+      <workItem from="1732179649903" duration="1533000" />
+      <workItem from="1732181219239" duration="2009000" />
+      <workItem from="1732194727642" duration="2705000" />
+      <workItem from="1732256787067" duration="2875000" />
+      <workItem from="1732342564466" duration="10232000" />
+      <workItem from="1732362442344" duration="9459000" />
+      <workItem from="1732984994643" duration="61000" />
+      <workItem from="1732985069024" duration="3185000" />
+      <workItem from="1733031220867" duration="3738000" />
+      <workItem from="1733044114483" duration="2279000" />
+      <workItem from="1733222505971" duration="3008000" />
+      <workItem from="1733831310061" duration="6386000" />
+      <workItem from="1734000445075" duration="3250000" />
+      <workItem from="1734098751677" duration="3907000" />
+      <workItem from="1734236955221" duration="8871000" />
+      <workItem from="1734526392368" duration="1567000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dec12th_fixtures/AdvancedActionsChains_Class.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dec12th_fixtures/pytestdemo3.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$ClassAndObjects.coverage" NAME="ClassAndObjects Coverage Results" MODIFIED="1730450902038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7_ClassesAndObjects" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$AdvancedActionsChains.coverage" NAME="AdvancedActionsChains Coverage Results" MODIFIED="1734247018029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dec12th_fixtures" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$DictionaryConcepts.coverage" NAME="DictionaryConcepts Coverage Results" MODIFIED="1730441465546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5_dictionary" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$ReduceConcepts.coverage" NAME="ReduceConcepts Coverage Results" MODIFIED="1732259436278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_LamdaAndFilters" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$InheritanceConcepts.coverage" NAME="InheritanceConcepts Coverage Results" MODIFIED="1730457995118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8_Inheritance" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$AssignmentTwo.coverage" NAME="AssignmentTwo Coverage Results" MODIFIED="1732081763776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumBasics" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$EmployeeDetails.coverage" NAME="EmployeeDetails Coverage Results" MODIFIED="1730458718364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8_Inheritance" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$Constructors.coverage" NAME="Constructors Coverage Results" MODIFIED="1730453615600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7_ClassesAndObjects" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$LoopingConcepts.coverage" NAME="LoopingConcepts Coverage Results" MODIFIED="1729621718222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2_StringConcepts" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$ListConcepts.coverage" NAME="ListConcepts Coverage Results" MODIFIED="1732382002612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3_Loops" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$ConditonalStatements.coverage" NAME="ConditonalStatements Coverage Results" MODIFIED="1729362169454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1_dataTypes" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$AdvancedActionsChains_Class.coverage" NAME="AdvancedActionsChains_Class Coverage Results" MODIFIED="1734248842658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dec12th_fixtures" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$AlertsAndFramesAssignment.coverage" NAME="AlertsAndFramesAssignment Coverage Results" MODIFIED="1733045449703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nov28th_SeleniumActions" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$PrintAllLinks.coverage" NAME="PrintAllLinks Coverage Results" MODIFIED="1732258449112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nov20th_seleniumLocators" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$InterviewQuestion.coverage" NAME="InterviewQuestion Coverage Results" MODIFIED="1731371275714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10_fileHandling" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$FilterConcepts.coverage" NAME="FilterConcepts Coverage Results" MODIFIED="1732258891458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_LamdaAndFilters" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$Sample.coverage" NAME="Sample Coverage Results" MODIFIED="1729363253239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1_dataTypes" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$PythonAssignment.coverage" NAME="PythonAssignment Coverage Results" MODIFIED="1733031598135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nov28th_SeleniumActions" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$FileHandling.coverage" NAME="FileHandling Coverage Results" MODIFIED="1731346321478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10_fileHandling" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$MultiLevelInheritance.coverage" NAME="MultiLevelInheritance Coverage Results" MODIFIED="1730458850242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8_Inheritance" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$ListComprehension.coverage" NAME="ListComprehension Coverage Results" MODIFIED="1732259882451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_LamdaAndFilters" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$AdvancedConditionalConcepts.coverage" NAME="AdvancedConditionalConcepts Coverage Results" MODIFIED="1729620773116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2_StringConcepts" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$.coverage" NAME=" Coverage Results" MODIFIED="1734527152378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dec12th_fixtures" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$RegistrationForm.coverage" NAME="RegistrationForm Coverage Results" MODIFIED="1734257587839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dec12th_fixtures/helpers" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$Assignment.coverage" NAME="Assignment Coverage Results" MODIFIED="1732383276821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10_fileHandling" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$StringFormatting.coverage" NAME="StringFormatting Coverage Results" MODIFIED="1732353698807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2_StringConcepts" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$Locators.coverage" NAME="Locators Coverage Results" MODIFIED="1732080469191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumBasics" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$FirstSession.coverage" NAME="FirstSession Coverage Results" MODIFIED="1732079155451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumBasics" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$FunctionDeclarations.coverage" NAME="FunctionDeclarations Coverage Results" MODIFIED="1730446639623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6_Functions" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$SeleniumActions.coverage" NAME="SeleniumActions Coverage Results" MODIFIED="1732988053603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nov28th_SeleniumActions" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$NestedForLoops.coverage" NAME="NestedForLoops Coverage Results" MODIFIED="1729661516242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2_StringConcepts" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$TupleConcepts.coverage" NAME="ListQuestions Coverage Results" MODIFIED="1730355712221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4_ListAndTuples" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$ReplaceVowels.coverage" NAME="ReplaceVowels Coverage Results" MODIFIED="1729662312021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3_Loops" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$MathFunctions.coverage" NAME="MathFunctions Coverage Results" MODIFIED="1730447625900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6_Functions" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$Ecommerce.coverage" NAME="Ecommerce Coverage Results" MODIFIED="1730454576945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7_ClassesAndObjects/oopsDemo" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$Assignment_Two.coverage" NAME="Assignment_Two Coverage Results" MODIFIED="1730457114945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7_ClassesAndObjects" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$Assignment_One.coverage" NAME="Assignment_One Coverage Results" MODIFIED="1730456904589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7_ClassesAndObjects" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$TimeOuts.coverage" NAME="TimeOuts Coverage Results" MODIFIED="1733834027933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dec3rd_FramesAndTimeOuts" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$RegistrationForms.coverage" NAME="RegistrationForms Coverage Results" MODIFIED="1732183553745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nov20th_seleniumLocators" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$SampleAbstractions.coverage" NAME="SampleAbstractions Coverage Results" MODIFIED="1730473553846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9_Abstraction" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$SeleniumBreakoutSession__1_.coverage" NAME="SeleniumBreakoutSession (1) Coverage Results" MODIFIED="1733034098453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nov28th_SeleniumActions" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$SetConcepts.coverage" NAME="SetConcepts Coverage Results" MODIFIED="1730443384589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5_dictionary" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$Count_Duplicates.coverage" NAME="Count_Duplicates Coverage Results" MODIFIED="1730442607571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5_dictionary" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$InputFromUser.coverage" NAME="InputFromUser Coverage Results" MODIFIED="1729362992434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1_dataTypes" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$WhileLoop.coverage" NAME="WhileLoop Coverage Results" MODIFIED="1732355043407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3_Loops" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$AssignmentOne.coverage" NAME="AssignmentOne Coverage Results" MODIFIED="1732081773169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seleniumBasics" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$Assignment_Three.coverage" NAME="Assignment_Three Coverage Results" MODIFIED="1730449656668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6_Functions" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$ExceptionHandling.coverage" NAME="ExceptionHandling Coverage Results" MODIFIED="1730597476374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9_Abstraction" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$SampleExamples.coverage" NAME="SampleExamples Coverage Results" MODIFIED="1730458331048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8_Inheritance" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$LamdasConcepts.coverage" NAME="LamdasConcepts Coverage Results" MODIFIED="1732258631905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_LamdaAndFilters" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$draganddrop_demo.coverage" NAME="draganddrop_demo Coverage Results" MODIFIED="1734256918212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dec12th_fixtures" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$ListQuestions__1_.coverage" NAME="ListQuestions (1) Coverage Results" MODIFIED="1730381422824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4_ListAndTuples" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$StringConcepts.coverage" NAME="StringConcepts Coverage Results" MODIFIED="1732350361881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2_StringConcepts" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$ListConcepts__1_.coverage" NAME="ListConcepts (1) Coverage Results" MODIFIED="1730355521264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4_ListAndTuples" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$Tuples.coverage" NAME="Tuples Coverage Results" MODIFIED="1730382025823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4_ListAndTuples" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$MapConcepts.coverage" NAME="MapConcepts Coverage Results" MODIFIED="1732259412114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_LamdaAndFilters" />
+    <SUITE FILE_PATH="coverage/PythonRevisionConcepts$ForLoopConcepts.coverage" NAME="ForLoopConcepts Coverage Results" MODIFIED="1732365927850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3_Loops" />
+  </component>
+</project>
