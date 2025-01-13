@@ -4,109 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21681c80-967d-4faf-bf43-1d1a96b5ab2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonRevisionConcepts.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10_fileHandling/Assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10_fileHandling/FileHandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10_fileHandling/InterviewQuestion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10_fileHandling/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10_fileHandling/sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_LamdaAndFilters/FilterConcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_LamdaAndFilters/LamdasConcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_LamdaAndFilters/ListComprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_LamdaAndFilters/MapConcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_LamdaAndFilters/ReduceConcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_LamdaAndFilters/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1_dataTypes/ConditonalStatements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1_dataTypes/InputFromUser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1_dataTypes/Sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1_dataTypes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2_StringConcepts/AdvancedConditionalConcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2_StringConcepts/LoopingConcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2_StringConcepts/NestedForLoops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2_StringConcepts/StringConcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2_StringConcepts/StringFormatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2_StringConcepts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_Loops/ForLoopConcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_Loops/ListConcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_Loops/ReplaceVowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_Loops/WhileLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3_Loops/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4_ListAndTuples/Assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4_ListAndTuples/ListConcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4_ListAndTuples/ListQuestions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4_ListAndTuples/Tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4_ListAndTuples/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5_dictionary/Assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5_dictionary/Count_Duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5_dictionary/DictionaryConcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5_dictionary/SetConcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5_dictionary/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6_Functions/Assignment_One.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6_Functions/Assignment_Three.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6_Functions/Assignment_Two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6_Functions/FunctionDeclarations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6_Functions/MathFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6_Functions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7_ClassesAndObjects/Assignment_One.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7_ClassesAndObjects/Assignment_Two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7_ClassesAndObjects/ClassAndObjects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7_ClassesAndObjects/Constructors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7_ClassesAndObjects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7_ClassesAndObjects/oopsDemo/Ecommerce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7_ClassesAndObjects/oopsDemo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8_Inheritance/EmployeeDetails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8_Inheritance/InheritanceConcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8_Inheritance/MultiLevelInheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8_Inheritance/SampleExamples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8_Inheritance/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day9_Abstraction/CustomExceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day9_Abstraction/ExceptionHandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day9_Abstraction/SampleAbstractions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day9_Abstraction/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec10th_PyTest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec10th_PyTest/test_markersconcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec10th_PyTest/test_parameterized.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec10th_PyTest/test_sampleCases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec10th_PyTest/test_secondFiles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/AdvancedActionsChains.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/AdvancedActionsChains_Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/draganddrop_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/helpers/BrowserFactory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/helpers/RegistrationForm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/helpers/SeleniumHelper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/helpers/SeleniumUtility.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/helpers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/pytestdemo3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/test_fixtureConcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/test_fixtures_seleniumconcepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec12th_fixtures/test_fixturesandparameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec3rd_FramesAndTimeOuts/TimeOuts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec3rd_FramesAndTimeOuts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov18th_seleniumBasics/AssignmentOne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov18th_seleniumBasics/AssignmentTwo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov18th_seleniumBasics/Assignmentthree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov18th_seleniumBasics/FirstSession.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov18th_seleniumBasics/Locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov18th_seleniumBasics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov20th_seleniumLocators/PrintAllLinks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov20th_seleniumLocators/RegistrationForms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov20th_seleniumLocators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov28th_SeleniumActions/AlertsAndFramesAssignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov28th_SeleniumActions/GIT-Workflow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov28th_SeleniumActions/SeleniumActions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov28th_SeleniumActions/SeleniumBreakoutSession.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov28th_SeleniumActions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+    <list default="true" id="21681c80-967d-4faf-bf43-1d1a96b5ab2f" name="Changes" comment="Updated Code for the latest changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4_ListAndTuples/Tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/day4_ListAndTuples/Tuples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sprahul333&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sprahul333/pythonPracticing_December.git&quot;,
+    &quot;accountId&quot;: &quot;5421ac11-f1fd-4ec8-b070-c2e1470813d0&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py" root0="SKIP_INSPECTION" />
   </component>
@@ -386,11 +298,26 @@
       <workItem from="1734098751677" duration="3907000" />
       <workItem from="1734236955221" duration="8871000" />
       <workItem from="1734526392368" duration="1567000" />
+      <workItem from="1735719091325" duration="953000" />
+      <workItem from="1736175724846" duration="697000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated Code for the latest changes">
+      <option name="closed" value="true" />
+      <created>1735719183257</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735719183257</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated Code for the latest changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Code for the latest changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

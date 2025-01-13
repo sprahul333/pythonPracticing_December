@@ -1,0 +1,1 @@
+Selenium is for Web Automation, Selenium is free and open source and Selenium is free. Selenium Grid

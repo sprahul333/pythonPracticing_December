@@ -42,8 +42,8 @@ print("*************************************************************************
 #* is used to pack the data in a tuple
 fruit5, *fruit6=tuple2
 
-print(fruit5)
-print(fruit6)
+print(fruit5) #Apple
+print(fruit6) #['Banana', 'Cherry', 'Dates']
 
 print(fruit6[2])
 
@@ -53,7 +53,7 @@ print("*************************************************************************
 fruit7, *fruit8, fruit9=tuple2
 
 print(fruit7)
-print(fruit8)
+print(fruit8) #['Banana', 'Cherry']
 print(fruit9)
 
 print(f'Fruit 8 is: {fruit8} and fruit 9 is: {fruit9}')
